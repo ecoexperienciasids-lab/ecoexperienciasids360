@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // --- 3. LÓGICA DE LA ENCUESTA ---
   const scriptURL =
-    "https://script.google.com/macros/s/AKfycbx4jsgJroG3PmqRDK5uQobaJ6k_qZjWrY2UURwP6fqH_qJZNBKYAwwKrl3E8M4vm373/exec";
+    "https://360ecoexperiencias.netlify.app/";
   const form = document.getElementById("encuestaForm");
 
   if (form) {
